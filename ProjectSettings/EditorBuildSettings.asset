@@ -6,17 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Touch_Lerp.unity
-    guid: 64c51f6dac739ee4396d3d0ef0aaef8f
-  - enabled: 1
-    path: Assets/Scenes/DualTouchControl.unity
-    guid: a8e1740c0ed2d374aad1f5ba699ebab9
-  - enabled: 1
-    path: Assets/Scenes/MobileSingleStickControl.unity
-    guid: 0ffbf708de04b0847ba22b1ed7bb9a50
-  - enabled: 1
-    path: Assets/Scenes/Speed.unity
-    guid: 7f791544962906a499db790aebca380d
-  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: 726dc372dd28a9b4eb6777f965022092
